@@ -1,0 +1,45 @@
+   <xml>
+
+    <value key="RedTeam">#</value>
+    <value key="RedCorner">#</value>
+
+    <value key="GreenTeam">12</value>
+    <value key="GreenCorner">1</value>
+
+    <value key="Red_LL_x">#</value>
+    <value key="Red_LL_y">#</value>
+
+    <value key="Red_UR_x">#</value>
+    <value key="Red_UR_y">#</value>
+
+    <value key="Green_LL_x">3</value>
+    <value key="Green_LL_y">0</value>
+
+    <value key="Green_UR_x">8</value>
+    <value key="Green_UR_y">3</value>
+
+    <value key="Island_LL_x">0</value>
+    <value key="Island_LL_y">5</value>
+
+    <value key="Island_UR_x">6</value>
+    <value key="Island_UR_y">8</value>
+
+    <value key="TNR_LL_x">#</value>
+    <value key="TNR_LL_y">#</value>
+
+    <value key="TNR_UR_x">#</value>
+    <value key="TNR_UR_y">#</value>
+
+    <value key="TNG_LL_x">4</value>
+    <value key="TNG_LL_y">3</value>
+
+    <value key="TNG_UR_x">5</value>
+    <value key="TNG_UR_y">5</value>
+
+    <value key="TR_x">#</value>
+    <value key="TR_y">#</value>
+
+    <value key="TG_x">2</value>
+    <value key="TG_y">6</value>
+
+</xml>
